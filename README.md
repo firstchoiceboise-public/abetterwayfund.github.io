@@ -1,6 +1,6 @@
 # A Better Way Memorial Fund
 ![image](https://user-images.githubusercontent.com/102836463/161354373-0ae3d29d-03a2-4df6-ba27-9c2c85914728.png)
-# ... A Lasting Way To Honor Those Who Have Passed Befure Us
+### ... A Lasting Way To Honor Those Who Have Passed Befure Us
 # Information
 For More Information, or to 
 make a memorial donation, 
@@ -61,7 +61,6 @@ as they live out their remaining
 days.
 ![image](https://user-images.githubusercontent.com/102836463/161354593-a1b656c6-da2b-4468-8a63-b35a3bef869d.png)
 ### One-time Donations vs. Annual Donations:
-![image](https://user-images.githubusercontent.com/102836463/161354624-01f54e2d-2dc4-433e-bc87-2ebcedf8473d.png)
 We know 
 the first year after a loved one 
 passes away is difficult for those 
@@ -84,6 +83,7 @@ to contact someone at A Better
 Way Memorial Fund. We are 
 happy to help you with this 
 process.
+![image](https://user-images.githubusercontent.com/102836463/161354624-01f54e2d-2dc4-433e-bc87-2ebcedf8473d.png)
 ### Ongoing Support:
 One of the 
 long range goals of A Better 
