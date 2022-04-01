@@ -67,7 +67,6 @@ passes away is difficult for those
 of us left behind. Anniversaries, 
 birthdays and holidays tend to 
 be the most difficult days.
-![image](https://user-images.githubusercontent.com/102836463/161354624-01f54e2d-2dc4-433e-bc87-2ebcedf8473d.png)
 It is common for memorial gifts to be 
 made on the loved one’s 
 birthday, anniversary, or their 
