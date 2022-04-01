@@ -119,3 +119,5 @@ If you would like to join us,
 please contact A Better Way 
 Memorial Fund at *(208) 322-
 4663*.
+# Donate
+<script src=https://givegab.s3.amazonaws.com/donation-widget/givegab-button.js></script><button class="givegab-button" data-campaign-id="125837" data-host=https://www.givegab.com data-org-id="497681" data-preview="" style="background-color: #269E32;">Donate Now</button>
