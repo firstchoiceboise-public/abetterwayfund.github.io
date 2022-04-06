@@ -1,6 +1,7 @@
 # A Better Way Memorial Fund
 ![image](https://user-images.githubusercontent.com/102836463/161354373-0ae3d29d-03a2-4df6-ba27-9c2c85914728.png)
 ### ... A Lasting Way To Honor Those Who Have Passed Befure Us
+Link coming soon...
 # Information
 For More Information, or to 
 make a memorial donation, 
@@ -103,7 +104,7 @@ setting, nor are they geared
 toward hospice patients and 
 their unique needs, as well as 
 the needs of the family.
-#
+<p>
 As we work with members of 
 this community to make our 
 dream a reality, we welcome the 
